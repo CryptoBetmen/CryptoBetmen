@@ -32,7 +32,7 @@
 scalable and high-performance web applications using modern
 technologies. I specialize in frontend development, including
 responsive interface design, UI/UX optimization, and integration of
-complex client-side systems. I work confidently with frameworks
+complex client-side systems.I work confidently with frameworks
 such as React, Vue.js, and Angular, as well as TypeScript, JavaScript
 (ES6+), HTML5, and CSS3 (including preprocessors like Sass/Less
 and frameworks such as Tailwind CSS or Bootstrap).
@@ -47,19 +47,98 @@ smart contracts and integrate Web3 interfaces: wallet connections
 wagmi, as well as Solana Web3.js. I have developed and tested smart
 contracts in Solidity (Foundry / Hardhat) and interacted with Solana
 programs.
-My key strength is fast and high-quality development using cuttingedge technologies and proven best practices. I participate in code
+My key strength is fast and high-quality development using cuttingedge technologies and proven best 
+practices. I participate in code
 reviews, mentoring, and knowledge sharing. I actively attend
 hackathons and meetups, continuously improve my skills, and study
 foreign languages. I strive to build solutions that deliver real value to
-both the project and the client.
+both the project and the client.</p>
+
+###
+
+<h3 align="left">💼 Professional Experience:</h3>
+
+###
+
+<p align="left">
+<strong>Senior Frontend Developer at Yandex</strong> (01/2023 - 11/2025, Moscow, Russia)<br>
+• Developed frontend functionality for Yandex Search using React and Node.js, focusing on building dynamic search interfaces<br>
+• Migrated the frontend codebase to TypeScript, improving UI component reliability and reducing client-side logic errors<br>
+• Implemented SSR and SEO optimizations with Next.js, accelerating page load times and increasing user engagement by 25% through optimized rendering<br>
+• Built internal analytics dashboards using Chart.js with WebSocket API integration for real-time dashboard updates<br>
+• Developed modular and testable frontend code using Jest and implemented CI/CD pipelines with Docker for seamless deployment<br>
+• Worked with GraphQL and MongoDB on the client side, optimizing queries to improve interface performance<br>
+• Ensured a consistent UI style using Storybook and collaborated closely with designers via Figma and Jira to align on visuals<br>
+• Acted as a Tech Lead: mentoring frontend developers, sprint planning, and overseeing UI/UX delivery quality
+</p>
+
+<p align="left">
+<strong>Frontend Developer at Scrump</strong> (04/2020 - 06/2023, Moscow, Russia)<br>
+• Developed Cryptosnake, the first blockchain game fully running on smart contracts (Battle Arena)<br>
+• Implemented farming, staking, and arena modules using React, GraphQL, and Web3 technologies<br>
+• Worked on Mineplex, an ecosystem of products with unique tokens; tech stack included Next.js, Redux (Saga), and Atomic Design<br>
+• Developed the frontend interface for USCZ, a digital stable currency platform, using Yup + Formik, Node.js, and CSS preprocessors<br>
+• Integrated crypto wallets (MetaMask) and implemented secure client-side logic
+</p>
+
+<p align="left">
+<strong>Mobile and Web Developer at HTN Coach</strong> (09/2017 - 03/2023, Moscow, Russia)<br>
+• Lead developer of a mobile application in the medical technology domain for a client from Canada<br>
+• Integrated Omron Healthcare solutions via their API/SDK into a React Native application, focusing on a seamless user experience for health monitoring<br>
+• Implemented frontend modules using MobX for state management, Socket.IO for real-time UI updates, and integrated with a Nest.js backend for client-side data handling<br>
+• Designed the frontend architecture, wrote UI/UX specifications, and managed the development team with a focus on mobile components<br>
+• Ensured secure data synchronization within the application and compliance with HIPAA requirements through frontend encryption and validation mechanisms
 </p>
 
 
 
 ###
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+<h3 align="left">🚀 Featured Projects:</h3>
+
+###
+
+<h4 align="left">ShadowPool - Decentralized Anonymous Mixer with Governance</h4>
+
+<p align="left">
+ShadowPool is a decentralized mixer combining zero-knowledge (ZK) proofs, anonymous governance, and cross-chain functionality, with Solana blockchain compatibility to ensure unprecedented privacy and security for DeFi transactions. Built using advanced cryptographic primitives and modern smart contract architecture.<br><br>
+✨ <strong>Key Features:</strong><br>
+🔐 Multi-currency support: easy mixing of ETH and any ERC20 tokens<br>
+🕵️ Zero-knowledge privacy: complete anonymity through Noir zk-proofs algorithm<br>
+🏛️ Decentralized governance: anonymous voting system with DAO management<br>
+🎯 Merkle tree integration: 20-level Merkle tree for efficient proof verification
+</p>
+
+###
+
+<h4 align="left">BAFEX - Blockchain Marketplace</h4>
+
+<p align="left">
+<strong>Website:</strong> <a href="https://www.thebafex-market.com/" target="_blank">thebafex-market.com</a>
+BAFEX is a blockchain-based marketplace. Within the BAFEX project, I was responsible for designing and implementing the complete smart contract infrastructure that formed the foundation of the DeFi project ecosystem.<br><br>
+<strong>Smart Contract Suite:</strong><br>
+• <strong>Token:</strong> Main BEP-20 token with burn support and flexible tokenomics<br>
+• <strong>Vesting:</strong> Vesting contract with precise control over unlock schedules and token distribution management for investors and team<br>
+• <strong>Distribution:</strong> Automatic reward and fee distribution system between stakers, liquidity pool, and project funds<br>
+• <strong>Staking:</strong> Advanced staking architecture with four types of lock periods and adaptive yield system<br><br>
+<strong>Additional Implementations:</strong><br>
+• Created test network with Bafex, USDT, and USDC tokens<br>
+• Integrated test token acquisition into the web application<br>
+• Implemented product purchasing functionality through smart contracts in the web application
+</p>
+
+###
+
+<h4 align="left">FloFi Protocol - Decentralized Lending & Borrowing</h4>
+
+<p align="left">
+Developed the FloFi Protocol, a decentralized lending and borrowing protocol on the Ethereum blockchain, successfully deploying it to a local Anvil test node using Foundry.<br><br>
+<strong>Key Implementations:</strong><br>
+• Smart contracts with dynamic interest rates (2% base + up to 20% depending on pool usage)<br>
+• React and Web3.js frontend integration for interaction via MetaMask<br>
+• Security ensured with OpenZeppelin libraries<br>
+• Chainlink oracle integration for secure price data, preventing ETH/USD price manipulation and ensuring accurate collateral pricing for loans and liquidations<br>
+• Prepared the contract for potential deployment to public chains such as Sepolia, Arbitrum, and Optimism
 </p>
 
 ###
