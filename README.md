@@ -158,71 +158,71 @@ Developed the FloFi Protocol, a decentralized lending and borrowing protocol on 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ethereum" height="40" alt="ethers.js logo"  />
+  <img src="https://cdn.simpleicons.org/ethereum/627EEA" height="40" alt="ethers.js logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=remix" height="40" alt="remix logo"  />
+  <img src="https://cdn.simpleicons.org/remix/000000" height="40" alt="remix logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vue logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  />
+  <img src="https://cdn.simpleicons.org/svelte/FF3E00" height="40" alt="svelte logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="sveltekit logo"  />
+  <img src="https://cdn.simpleicons.org/svelte/FF3E00" height="40" alt="sveltekit logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nuxtjs" height="40" alt="nuxt logo"  />
+  <img src="https://cdn.simpleicons.org/nuxtjs/00DC82" height="40" alt="nuxt logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=styledcomponents" height="40" alt="styled-components logo"  />
+  <img src="https://cdn.simpleicons.org/styledcomponents/DB7093" height="40" alt="styled-components logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=chakraui" height="40" alt="chakra ui logo"  />
+  <img src="https://cdn.simpleicons.org/chakraui/319795" height="40" alt="chakra ui logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=emotion" height="40" alt="emotion logo"  />
+  <img src="https://cdn.simpleicons.org/emotion/D36AC2" height="40" alt="emotion logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mui" height="40" alt="material ui logo"  />
+  <img src="https://cdn.simpleicons.org/materialui/007FFF" height="40" alt="material ui logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="scss logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=chartjs" height="40" alt="chart.js logo"  />
+  <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" height="40" alt="chart.js logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="three.js logo"  />
+  <img src="https://cdn.simpleicons.org/threedotjs/000000" height="40" alt="three.js logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=phaser" height="40" alt="phaser.js logo"  />
+  <img src="https://cdn.simpleicons.org/phaser/FF3E00" height="40" alt="phaser.js logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=framer" height="40" alt="framer motion logo"  />
+  <img src="https://cdn.simpleicons.org/framer/0055FF" height="40" alt="framer motion logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=d3" height="40" alt="d3.js logo"  />
+  <img src="https://cdn.simpleicons.org/d3dotjs/F9A03C" height="40" alt="d3.js logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gsap" height="40" alt="gsap logo"  />
+  <img src="https://cdn.simpleicons.org/greensock/88CE02" height="40" alt="gsap logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=storybook" height="40" alt="storybook logo"  />
+  <img src="https://cdn.simpleicons.org/storybook/FF4785" height="40" alt="storybook logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jira" height="40" alt="jira logo"  />
+  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
+  <img src="https://cdn.simpleicons.org/jest/C21325" height="40" alt="jest logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pinia" height="40" alt="pinia logo"  />
+  <img src="https://cdn.simpleicons.org/pinia/FFD859" height="40" alt="pinia logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=zustand" height="40" alt="zustand logo"  />
+  <img src="https://cdn.simpleicons.org/zustand/443942" height="40" alt="zustand logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
+  <img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="redux logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wagmi" height="40" alt="wagmi logo"  />
+  <img src="https://cdn.simpleicons.org/wagmi/FFC800" height="40" alt="wagmi logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=viem" height="40" alt="viem logo"  />
+  <img src="https://cdn.simpleicons.org/viem/6366F1" height="40" alt="viem logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rainbowkit" height="40" alt="rainbowkit logo"  />
+  <img src="https://cdn.simpleicons.org/rainbowkit/FFC800" height="40" alt="rainbowkit logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=solana" height="40" alt="solana logo"  />
+  <img src="https://cdn.simpleicons.org/solana/9945FF" height="40" alt="solana logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=uniswap" height="40" alt="uniswap logo"  />
+  <img src="https://cdn.simpleicons.org/uniswap/FF007A" height="40" alt="uniswap logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aave" height="40" alt="aave logo"  />
+  <img src="https://cdn.simpleicons.org/aave/B6509E" height="40" alt="aave logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react native logo"  />
 </div>
@@ -234,9 +234,9 @@ Developed the FloFi Protocol, a decentralized lending and borrowing protocol on 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=solidity" height="40" alt="solidity logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=foundry" height="40" alt="foundry logo"  />
+  <img src="https://cdn.simpleicons.org/foundry/000000" height="40" alt="foundry logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=hardhat" height="40" alt="hardhat logo"  />
+  <img src="https://cdn.simpleicons.org/hardhat/F7DF1E" height="40" alt="hardhat logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
@@ -244,11 +244,11 @@ Developed the FloFi Protocol, a decentralized lending and borrowing protocol on 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rest" height="40" alt="rest api logo"  />
+  <img src="https://cdn.simpleicons.org/rest/FF5733" height="40" alt="rest api logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
+  <img src="https://cdn.simpleicons.org/graphql/E10098" height="40" alt="graphql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ethereum" height="40" alt="defi logo"  />
+  <img src="https://cdn.simpleicons.org/ethereum/627EEA" height="40" alt="defi logo"  />
 </div>
 
 ###
@@ -260,9 +260,9 @@ Developed the FloFi Protocol, a decentralized lending and borrowing protocol on 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=typeorm" height="40" alt="typeorm logo"  />
+  <img src="https://cdn.simpleicons.org/typeorm/FE0902" height="40" alt="typeorm logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ipfs" height="40" alt="ipfs logo"  />
+  <img src="https://cdn.simpleicons.org/ipfs/65C2CB" height="40" alt="ipfs logo"  />
 </div>
 
 ###
@@ -274,11 +274,11 @@ Developed the FloFi Protocol, a decentralized lending and borrowing protocol on 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
+  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="40" alt="gitlab logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bitbucket" height="40" alt="bitbucket logo"  />
+  <img src="https://cdn.simpleicons.org/bitbucket/0052CC" height="40" alt="bitbucket logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=circleci" height="40" alt="cicd logo"  />
+  <img src="https://cdn.simpleicons.org/circleci/343434" height="40" alt="cicd logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
 </div>
