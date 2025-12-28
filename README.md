@@ -143,6 +143,21 @@ Developed the FloFi Protocol, a decentralized lending and borrowing protocol on 
 
 ###
 
+<h4 align="left">Gamified Social Trading Pool - Atrium Academy</h4>
+
+<p align="left">
+Liquidity pool on Uniswap v4 with hooks, allowing traders to "copy" trades from top users. Liquidity is provided through a gamified system with NFT rewards. Traders pay a premium for copying, and LPs receive bonuses for their activity. All this on Unichain for low-cost transactions and a lightning-fast user experience.<br><br>
+<strong>Key Features:</strong><br>
+• Uniswap v4 hooks integration for advanced liquidity pool functionality<br>
+• Social trading: copy trading mechanism from top-performing traders<br>
+• Gamified system: NFT rewards for liquidity providers<br>
+• Premium trading: traders pay fees for copy trading features<br>
+• LP bonuses: liquidity providers receive additional rewards for activity<br>
+• Unichain deployment: low-cost transactions and fast user experience
+</p>
+
+###
+
 <h3 align="left">🛠 Stack:</h3>
 
 ###
