@@ -28,31 +28,7 @@
 
 ###
 
-<p align="left">Senior Frontend Developer with over 8 years of experience building
-scalable and high-performance web applications using modern
-technologies. I specialize in frontend development, including
-responsive interface design, UI/UX optimization, and integration of
-complex client-side systems.I work confidently with frameworks
-such as React, Vue.js, and Angular, as well as TypeScript, JavaScript
-(ES6+), HTML5, and CSS3 (including preprocessors like Sass/Less
-and frameworks such as Tailwind CSS or Bootstrap).
-I have experience designing frontend architecture from scratch,
-working with REST APIs and GraphQL on the client side, and
-optimizing performance using tools like Webpack and Vite. I set up
-CI/CD pipelines, use Docker, write clean and testable code, and
-collaborate effectively within Agile teams.
-I also have hands-on experience in blockchain and Web3. I develop
-smart contracts and integrate Web3 interfaces: wallet connections
-(MetaMask, WalletConnect, Phantom), working with ethers.js / viem /
-wagmi, as well as Solana Web3.js. I have developed and tested smart
-contracts in Solidity (Foundry / Hardhat) and interacted with Solana
-programs.
-My key strength is fast and high-quality development using cuttingedge technologies and proven best 
-practices. I participate in code
-reviews, mentoring, and knowledge sharing. I actively attend
-hackathons and meetups, continuously improve my skills, and study
-foreign languages. I strive to build solutions that deliver real value to
-both the project and the client.</p>
+<p align="left">Senior Frontend Developer with 8+ years of experience building scalable web applications. Specialized in React, Vue.js, Angular, TypeScript, and modern frontend technologies. Strong expertise in Web3, blockchain development, and smart contracts (Solidity, Foundry, Hardhat). Experienced in designing frontend architecture, optimizing performance, and leading development teams.</p>
 
 ###
 
@@ -62,32 +38,29 @@ both the project and the client.</p>
 
 <p align="left">
 <strong>Senior Frontend Developer at Yandex</strong> (01/2023 - 11/2025, Moscow, Russia)<br>
-• Developed frontend functionality for Yandex Search using React and Node.js, focusing on building dynamic search interfaces<br>
-• Migrated the frontend codebase to TypeScript, improving UI component reliability and reducing client-side logic errors<br>
-• Implemented SSR and SEO optimizations with Next.js, accelerating page load times and increasing user engagement by 25% through optimized rendering<br>
-• Built internal analytics dashboards using Chart.js with WebSocket API integration for real-time dashboard updates<br>
-• Developed modular and testable frontend code using Jest and implemented CI/CD pipelines with Docker for seamless deployment<br>
-• Worked with GraphQL and MongoDB on the client side, optimizing queries to improve interface performance<br>
-• Ensured a consistent UI style using Storybook and collaborated closely with designers via Figma and Jira to align on visuals<br>
-• Acted as a Tech Lead: mentoring frontend developers, sprint planning, and overseeing UI/UX delivery quality
+• Developed Yandex Search frontend with React, Node.js, and TypeScript<br>
+• Implemented SSR/SEO optimizations with Next.js, increasing engagement by 25%<br>
+• Built analytics dashboards with Chart.js and WebSocket for real-time updates<br>
+• Set up CI/CD pipelines with Docker and Jest for testing<br>
+• Tech Lead: mentoring developers and overseeing UI/UX quality
 </p>
 
 <p align="left">
 <strong>Frontend Developer at Scrump</strong> (04/2020 - 06/2023, Moscow, Russia)<br>
-• Developed Cryptosnake, the first blockchain game fully running on smart contracts (Battle Arena)<br>
-• Implemented farming, staking, and arena modules using React, GraphQL, and Web3 technologies<br>
-• Worked on Mineplex, an ecosystem of products with unique tokens; tech stack included Next.js, Redux (Saga), and Atomic Design<br>
-• Developed the frontend interface for USCZ, a digital stable currency platform, using Yup + Formik, Node.js, and CSS preprocessors<br>
-• Integrated crypto wallets (MetaMask) and implemented secure client-side logic
+• Developed Cryptosnake blockchain game with smart contracts<br>
+• Built farming, staking modules using React, GraphQL, and Web3<br>
+• Worked on Mineplex ecosystem with Next.js, Redux (Saga), Atomic Design<br>
+• Developed USCZ stable currency platform frontend<br>
+• Integrated MetaMask and Web3 wallet connections
 </p>
 
 <p align="left">
 <strong>Mobile and Web Developer at HTN Coach</strong> (09/2017 - 03/2023, Moscow, Russia)<br>
-• Lead developer of a mobile application in the medical technology domain for a client from Canada<br>
-• Integrated Omron Healthcare solutions via their API/SDK into a React Native application, focusing on a seamless user experience for health monitoring<br>
-• Implemented frontend modules using MobX for state management, Socket.IO for real-time UI updates, and integrated with a Nest.js backend for client-side data handling<br>
-• Designed the frontend architecture, wrote UI/UX specifications, and managed the development team with a focus on mobile components<br>
-• Ensured secure data synchronization within the application and compliance with HIPAA requirements through frontend encryption and validation mechanisms
+• Lead developer of medical tech mobile app (React Native)<br>
+• Integrated Omron Healthcare API/SDK for health monitoring<br>
+• Built frontend with MobX, Socket.IO, Nest.js backend<br>
+• Designed architecture and managed development team<br>
+• Ensured HIPAA compliance with encryption and validation
 </p>
 
 
@@ -101,12 +74,8 @@ both the project and the client.</p>
 <h4 align="left">ShadowPool - Decentralized Anonymous Mixer with Governance</h4>
 
 <p align="left">
-ShadowPool is a decentralized mixer combining zero-knowledge (ZK) proofs, anonymous governance, and cross-chain functionality, with Solana blockchain compatibility to ensure unprecedented privacy and security for DeFi transactions. Built using advanced cryptographic primitives and modern smart contract architecture.<br><br>
-✨ <strong>Key Features:</strong><br>
-🔐 Multi-currency support: easy mixing of ETH and any ERC20 tokens<br>
-🕵️ Zero-knowledge privacy: complete anonymity through Noir zk-proofs algorithm<br>
-🏛️ Decentralized governance: anonymous voting system with DAO management<br>
-🎯 Merkle tree integration: 20-level Merkle tree for efficient proof verification
+Decentralized mixer with zero-knowledge proofs, anonymous governance, and cross-chain functionality. Solana blockchain compatible for private DeFi transactions.<br><br>
+<strong>Features:</strong> Multi-currency support (ETH, ERC20), Noir zk-proofs, DAO governance, 20-level Merkle tree verification
 </p>
 
 ###
@@ -114,17 +83,9 @@ ShadowPool is a decentralized mixer combining zero-knowledge (ZK) proofs, anonym
 <h4 align="left">BAFEX - Blockchain Marketplace</h4>
 
 <p align="left">
-<strong>Website:</strong> <a href="https://www.thebafex-market.com/" target="_blank">thebafex-market.com</a>
-BAFEX is a blockchain-based marketplace. Within the BAFEX project, I was responsible for designing and implementing the complete smart contract infrastructure that formed the foundation of the DeFi project ecosystem.<br><br>
-<strong>Smart Contract Suite:</strong><br>
-• <strong>Token:</strong> Main BEP-20 token with burn support and flexible tokenomics<br>
-• <strong>Vesting:</strong> Vesting contract with precise control over unlock schedules and token distribution management for investors and team<br>
-• <strong>Distribution:</strong> Automatic reward and fee distribution system between stakers, liquidity pool, and project funds<br>
-• <strong>Staking:</strong> Advanced staking architecture with four types of lock periods and adaptive yield system<br><br>
-<strong>Additional Implementations:</strong><br>
-• Created test network with Bafex, USDT, and USDC tokens<br>
-• Integrated test token acquisition into the web application<br>
-• Implemented product purchasing functionality through smart contracts in the web application
+<strong>Website:</strong> <a href="https://www.thebafex-market.com/" target="_blank">thebafex-market.com</a><br>
+Blockchain marketplace with complete DeFi smart contract infrastructure.<br><br>
+<strong>Smart Contracts:</strong> BEP-20 token, vesting system, automatic reward distribution, advanced staking (4 lock types), test network integration
 </p>
 
 ###
@@ -132,13 +93,8 @@ BAFEX is a blockchain-based marketplace. Within the BAFEX project, I was respons
 <h4 align="left">FloFi Protocol - Decentralized Lending & Borrowing</h4>
 
 <p align="left">
-Developed the FloFi Protocol, a decentralized lending and borrowing protocol on the Ethereum blockchain, successfully deploying it to a local Anvil test node using Foundry.<br><br>
-<strong>Key Implementations:</strong><br>
-• Smart contracts with dynamic interest rates (2% base + up to 20% depending on pool usage)<br>
-• React and Web3.js frontend integration for interaction via MetaMask<br>
-• Security ensured with OpenZeppelin libraries<br>
-• Chainlink oracle integration for secure price data, preventing ETH/USD price manipulation and ensuring accurate collateral pricing for loans and liquidations<br>
-• Prepared the contract for potential deployment to public chains such as Sepolia, Arbitrum, and Optimism
+Decentralized lending and borrowing protocol on Ethereum. Deployed with Foundry to Anvil test node.<br><br>
+<strong>Features:</strong> Dynamic interest rates (2-20%), React/Web3.js frontend, OpenZeppelin security, Chainlink oracle integration, ready for Sepolia/Arbitrum/Optimism
 </p>
 
 ###
@@ -146,14 +102,7 @@ Developed the FloFi Protocol, a decentralized lending and borrowing protocol on 
 <h4 align="left">Gamified Social Trading Pool - Atrium Academy</h4>
 
 <p align="left">
-Liquidity pool on Uniswap v4 with hooks, allowing traders to "copy" trades from top users. Liquidity is provided through a gamified system with NFT rewards. Traders pay a premium for copying, and LPs receive bonuses for their activity. All this on Unichain for low-cost transactions and a lightning-fast user experience.<br><br>
-<strong>Key Features:</strong><br>
-• Uniswap v4 hooks integration for advanced liquidity pool functionality<br>
-• Social trading: copy trading mechanism from top-performing traders<br>
-• Gamified system: NFT rewards for liquidity providers<br>
-• Premium trading: traders pay fees for copy trading features<br>
-• LP bonuses: liquidity providers receive additional rewards for activity<br>
-• Unichain deployment: low-cost transactions and fast user experience
+Uniswap v4 liquidity pool with hooks for copy trading. Gamified system with NFT rewards for LPs. Premium fees for copy trading, LP activity bonuses. Deployed on Unichain for low-cost, fast transactions.
 </p>
 
 ###
