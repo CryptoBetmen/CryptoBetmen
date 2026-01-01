@@ -49,7 +49,7 @@
 </p>
 
 <p align="left">
-<strong>Senior Frontend Developer at VK</strong> (01/2020 - 105/2022, Moscow, Russia)<br>
+<strong>Senior Frontend Developer at VK</strong> (01/2020 - 05/2022, Moscow, Russia)<br>
 • Developed  frontend with React, Node.js, and TypeScript<br>
 • Implemented SSR/SEO optimizations with Next.js, increasing engagement by 25%<br>
 • Built analytics dashboards with Chart.js and WebSocket for real-time updates<br>
@@ -58,7 +58,7 @@
 </p>
 
 <p align="left">
-<strong>Mobile and Web Developer at The Coach</strong> (09/2017 - 03/2020, Moscow, Russia)<br>
+<strong>Mobile and Web Developer at The Coach</strong> (09/2017 - 01/2020, Moscow, Russia)<br>
 • Lead developer of medical tech mobile app (React Native)<br>
 • Integrated Omron Healthcare API/SDK for health monitoring<br>
 • Built frontend with MobX, Socket.IO, Nest.js backend<br>
