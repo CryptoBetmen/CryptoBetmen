@@ -37,8 +37,20 @@
 ###
 
 <p align="left">
-<strong>Senior Frontend Developer at Yandex</strong> (01/2023 - 11/2025, Moscow, Russia)<br>
-• Developed Yandex Search frontend with React, Node.js, and TypeScript<br>
+<strong>Smart Contract Developer at PixelVersr (RioDeFi)</strong> (05/2022 - 12/2025, Remote)<br>
+• Cross-chain DeFi ecosystem and high-performance DEX development<br>
+• Designed smart contract architecture: Solidity (v0.8.19+), Proxy pattern (ERC-1967), modular design<br>
+• Built custom Staking & Farming pools with dynamic rewards, optimized gas costs by 25%<br>
+• Forked and adapted Uniswap V2/V3 for cross-chain assets, developed Yield Aggregator<br>
+• Applied Yul optimizations for critical functions, reduced transaction costs<br>
+• Implemented security measures against Reentrancy, Oracle Manipulation, Flashloan attacks<br>
+• Created Bridge contracts for Ethereum/Polygon/BSC, integrated Chainlink oracles<br>
+• Migrated CI/CD from Hardhat to Foundry, 4x faster testing, 98% code coverage (150+ tests)
+</p>
+
+<p align="left">
+<strong>Senior Frontend Developer at VK</strong> (01/2020 - 105/2022, Moscow, Russia)<br>
+• Developed  frontend with React, Node.js, and TypeScript<br>
 • Implemented SSR/SEO optimizations with Next.js, increasing engagement by 25%<br>
 • Built analytics dashboards with Chart.js and WebSocket for real-time updates<br>
 • Set up CI/CD pipelines with Docker and Jest for testing<br>
@@ -46,16 +58,7 @@
 </p>
 
 <p align="left">
-<strong>Frontend Developer at Scrump</strong> (04/2020 - 06/2023, Moscow, Russia)<br>
-• Developed Cryptosnake blockchain game with smart contracts<br>
-• Built farming, staking modules using React, GraphQL, and Web3<br>
-• Worked on Mineplex ecosystem with Next.js, Redux (Saga), Atomic Design<br>
-• Developed USCZ stable currency platform frontend<br>
-• Integrated MetaMask and Web3 wallet connections
-</p>
-
-<p align="left">
-<strong>Mobile and Web Developer at HTN Coach</strong> (09/2017 - 03/2023, Moscow, Russia)<br>
+<strong>Mobile and Web Developer at The Coach</strong> (09/2017 - 03/2020, Moscow, Russia)<br>
 • Lead developer of medical tech mobile app (React Native)<br>
 • Integrated Omron Healthcare API/SDK for health monitoring<br>
 • Built frontend with MobX, Socket.IO, Nest.js backend<br>
