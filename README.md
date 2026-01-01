@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">Senior Frontend Developer with 8+ years of experience building scalable web applications. Specialized in React, Vue.js, Angular, TypeScript, and modern frontend technologies. Strong expertise in Web3, blockchain development, and smart contracts (Solidity, Foundry, Hardhat). Experienced in designing frontend architecture, optimizing performance, and leading development teams.</p>
+<p align="left">Senior Blockchain Developer with 8+ years of experience building scalable web applications. Specialized in React, Vue.js, Angular, TypeScript, and modern frontend technologies. Strong expertise in Web3, blockchain development, and smart contracts (Solidity, Foundry, Hardhat). Experienced in designing frontend architecture, optimizing performance, and leading development teams.</p>
 
 ###
 
